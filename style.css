@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0rem 0.5rem;
+    margin: auto;
+}
+
+body{
+    max-width: 900px;
+}
+
+.navbar{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem 0.2rem;
+    text-decoration: none;
+    background: grey;
+    color: white;
+    text-transform: uppercase;
+    font-style: italic;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    padding:10px 5px;
+
+}
+
+.lead {
+    font-size: 25px;
+    padding: 14px 5px;
+}
+
+.form-control{
+    padding: 15px;
+    width: 96%;
+    outline: none;
+    border-radius: 30px;
+}
+
+.row{
+    display: grid;
+    grid-template-columns: 3fr 9fr;
+}
+
+.img{
+    width:  260px;
+}
+
+.button{
+    padding: 1rem 0rem;
+    text-align: center;
+
+}
+
+.btn{
+    text-decoration: none;
+    font-size: 20px;
+    background: grey;
+    color: white;
+    padding: 8px 13px;
+    border-radius: 20px;
+  
+}
+
+.button1{
+    display: inline-block;
+
+}
+
+.badge1{
+    font-size: 0.8rem;
+    grid-gap: 1rem;
+    padding: 10px 8px;
+    background: grey;
+    color: white;
+    border-radius: 10px;  
+    margin-bottom: 1rem;
+}
+.badge2{
+    font-size: 0.8rem;
+    grid-gap: 1rem;
+    padding: 10px 8px;
+    background: rgb(46, 18, 148);
+    color: rgb(255, 249, 249);
+    border-radius: 10px;   
+}
+.badge3{
+    font-size: 0.8rem;
+    grid-gap: 1rem;
+    padding: 10px 8px;
+    background: rgb(192, 100, 15);
+    color: rgb(255, 249, 249);
+    border-radius: 10px;   
+}
+.badge4{
+    font-size: 0.8rem;
+    grid-gap: 1rem;
+    padding: 10px 8px;
+    background: rgb(148, 18, 18);
+    color: rgb(255, 249, 249);
+    border-radius: 10px;   
+}
+
+
+.list{
+    padding: 12px 10px;
+    list-style: none;
+    border: 1px solid cornflowerblue;   
+}
+
+.page{
+    font-size: 30px;
+    padding: 1.2rem;
+}
+
+#repos{
+    font-size: 1.2rem;
+    padding: 1rem;
+    border: 1px solid cornflowerblue;
+    margin-bottom: 2rem;
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(39, 37, 37);   
+}
+
+
+.card{
+    border: 1px solid cornflowerblue;
+    padding: 10px 10px;
+
+}
+
+.pad{
+  display: inline-block;
+}
+
+.badgea{
+    font-size: 1rem;
+    color: white;
+    background: rgb(184, 29, 29);
+    padding:7px 12px;
+    border-radius: 10px;
+}
+.badgeb{
+    font-size: 1rem;
+    color: white;
+    background: rgb(46, 18, 148);
+    padding:7px 12px;
+    border-radius: 10px;
+}
+ .badgec{
+    font-size: 1rem;
+    color: white;
+    background: rgb(192, 100, 15);
+    padding:7px 12px;
+    border-radius: 10px;
+}
+
+.center{
+    text-align: center;
+    font-size: 1rem;
+    text-transform: capitalize;
+    background: grey;
+    color: white;
+    padding: 10px;
+    margin-bottom: 2rem;
+    border-radius: 5px;
+}
+
+
+
+

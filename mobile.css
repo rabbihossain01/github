@@ -1,0 +1,96 @@
+
+#profile{
+    text-align: center;
+}
+.navbar{
+    font-size: 1.2rem;
+
+}
+
+h1{
+    font-size: 1.2rem;
+}
+
+.lead {
+    font-size: 20px;
+}
+
+.form-control{
+    width: 90%;
+}
+
+.row{
+    grid-template-columns: 1fr;
+}
+
+
+.img{
+    width:  150px;
+}
+
+.button{
+  padding: 2rem 0rem;
+}
+
+.btn{
+    font-size: 10px;
+    padding: 10px 25px;
+    margin-bottom: 2rem;  
+}
+
+/* Display profile in UI */
+
+.button1{
+  margin-bottom: 2rem;
+  text-align: center;
+  
+}
+
+.badge1{
+    font-size: 0.7rem;
+    padding: 8px 12px; 
+    
+}
+
+.badge2{
+    font-size: 0.7rem;
+    padding: 8px 10px;
+
+}
+.badge3{
+    font-size: 0.7rem;
+    padding: 8px 10px;
+}
+.badge4{
+    font-size: 0.7rem;
+    padding: 8px 10px;
+}
+
+
+
+/*  Show user repos */
+
+.pad{
+    padding: 1rem 0rem;
+}
+
+.badgea{
+    font-size: 0.8rem;
+    padding:7px 12px;
+    margin-bottom: 2rem;
+  
+   
+}
+.badgeb{
+    font-size: 0.8rem;
+    padding:7px 12px;
+  
+}
+.badgec{
+    font-size: 0.8rem;
+    padding:7px 12px;
+  
+}
+
+
+
